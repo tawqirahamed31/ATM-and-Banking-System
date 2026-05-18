@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225240166
+# Name:Tawqir Ahamed Sayeed
+# Date:17-05-2026
 
 
 # AIM:
@@ -30,6 +30,32 @@ To develop the ATM and Banking System using Star UML
 
 
 # UML DIAGRAMS
+Use case Diagram:
+
+![alt text](usecase.jpg)
+
+Class Diagram:
+
+![alt text](class.jpg)
+
+Communication Diagram:
+
+![alt text](collabration.jpg)
+
+Package Diagram:
+
+![alt text](package.jpg)
+
+Activity Diagram:
+
+![alt text](activirty.jpg)
+
+Sequence Diagram:
+
+![alt text](sequence.jpg)
+
+
+
 
 # USE CASE DIAGRAM
 
